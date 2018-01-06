@@ -11,5 +11,7 @@ Right now the code simply displays this data, but next up will be showing how mu
 Note: If you put the AccountAdjustment day as 31 or anything more than that, the code will automatically adjust this to be the last day of the month when you make a query for a specific month.
 
 # Setup
+```
 sudo python install -r requirements.txt
 ./main.py
+```
